@@ -1,0 +1,1 @@
+# extends_array_examples
