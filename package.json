@@ -1,0 +1,19 @@
+{
+  "name": "extends_array_examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "execute.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucianoyamane/extends_array_examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucianoyamane/extends_array_examples/issues"
+  },
+  "homepage": "https://github.com/lucianoyamane/extends_array_examples#readme"
+}
